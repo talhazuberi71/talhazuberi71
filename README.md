@@ -179,6 +179,8 @@ I completed my **MS in Computational Science & Engineering from NUST**, with a t
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhazuberi/)
 &nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-a78bfa?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/talhazuberi71)
+&nbsp;
 [![WhatsApp](https://img.shields.io/badge/+92--302--6727017-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923026727017)
 
 <br/>
