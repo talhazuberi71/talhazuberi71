@@ -12,7 +12,7 @@ I'm **Manager AI at [Askari Bank](https://www.askaribank.com.pk/)** — one of P
 
 I design and ship **production-grade AI systems** for enterprise banking — from multi-agent chatbots and voice bots to compliance automation and TBML detection. Previously, I built **cybersecurity AI pipelines** including UEBA anomaly detection, malware classification, and real-time log correlation systems processing **500K+ events/sec**.
 
-I hold an **MS in Computational Science & Engineering from NUST**, with a thesis on robust AI frameworks for malware detection.
+I completed my **MS in Computational Science & Engineering from NUST**, with a thesis on robust AI frameworks for malware detection.
 
 <br/>
 
