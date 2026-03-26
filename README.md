@@ -3,6 +3,17 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Agentic+RAG+%7C+Multi-Agent+Systems+%7C+Voice+AI;Enterprise+Banking+AI+%7C+Cybersecurity+ML;Anomaly+Detection+%7C+Malware+Classification+%7C+NLP" /></a>
 </p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/talhazuberi71@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhazuberi71@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhazuberi/)
+&nbsp;
+[![Fiverr](https://img.shields.io/badge/Fiverr-a78bfa?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/talhazuberi71)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/+92--302--6727017-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923026727017)
+
+</div>
 
 <br/>
 
@@ -171,18 +182,6 @@ I completed my **MS in Computational Science & Engineering from NUST**, with a t
 
 ---
 
-<br/>
 
-## 📬 Connect
-
-[![Email](https://img.shields.io/badge/talhazuberi71@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhazuberi71@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhazuberi/)
-&nbsp;
-[![Fiverr](https://img.shields.io/badge/Fiverr-a78bfa?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/talhazuberi71)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/+92--302--6727017-a78bfa?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923026727017)
-
-<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6c5ce7,100:0d1117&height=120&section=footer)
